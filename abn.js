@@ -15,6 +15,6 @@ console.log(isAutoBio(1210));
 
 console.log(isAutoBio(1220));
 
-console.log(isAutoBio(2020));
+//console.log(isAutoBio(2020));
 
 
